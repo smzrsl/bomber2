@@ -1,1 +1,1 @@
-discord.gg/siberguvenlik
+node index.js
